@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512625818889",
+    "project_id": "digitalmarketingschool-bd587",
+    "storage_bucket": "digitalmarketingschool-bd587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512625818889:android:50953f252dedace9f1a7d8",
+        "android_client_info": {
+          "package_name": "com.example.digitalmarketingschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512625818889-d685oug9n2iuvl9nobbqbmlqd6if71jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalmarketingschool",
+            "certificate_hash": "8b43410bcc41f46ab788cb2769ed17298113851d"
+          }
+        },
+        {
+          "client_id": "512625818889-qf1h4n1boshm9ja8i7tfnngpu27kc8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptxF7GvVl7mwTNs289-7ygiy8mGgtFBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512625818889-qf1h4n1boshm9ja8i7tfnngpu27kc8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
